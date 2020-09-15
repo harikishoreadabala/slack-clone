@@ -1,0 +1,20 @@
+1) Wire Framing-Draw a rough sketch of what we are actually going to build
+2) Functionality
+    * Sign In
+    * Sign Up
+    * Create a channel
+    * Send message in a channel
+    * Join a channel
+    * Search a channel
+3) Data
+    * users
+    * channels
+    * messages
+4) UI components
+    * Sidebar
+        * List of channels
+        * List of direct messages
+    * Main 
+        * header
+        * message
+        * create message
